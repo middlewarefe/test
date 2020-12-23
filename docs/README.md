@@ -1,7 +1,7 @@
 ---
 home: true
 lang: zh-CN
-heroText: 中间件组啊
+heroText: 中间件组
 heroImage: /logo.jpg
 actionText: 开始 →
 actionLink: /interview/
